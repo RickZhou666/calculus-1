@@ -1,3 +1,6 @@
 *.zip
 *.pdf
+.venv
 Become a Calculus 1 Master/
+.DS_Store
+.python-version
