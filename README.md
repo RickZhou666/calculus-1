@@ -52,3 +52,23 @@ http://www.uefap.com/speaking/symbols/symbols.htm<br>
     - The precise definition of the limit proves that the limit exists and is L, as long as any number we pick between a - 𝜹 and a + 𝜹 will always return a value between L - 𝜺 and L + 𝜺
     - ![imgs](./imgs/Xnip2023-09-08_12-39-03.jpg)
 
+
+<br><br><br><br><br><br>
+
+# 3. Limits & Continuity - Combinations and composites
+1. intro
+    - ![imgs](./imgs/Xnip2023-09-20_10-22-56.jpg)
+
+2. limits of combinations
+    - evalute limits in two ways
+        - find combination of the function then find the limit
+        - find limit of each function and then combine them
+    - ![imgs](./imgs/Xnip2023-09-20_10-42-36.jpg)
+
+3. limits of composites
+    - function of a funciton
+    - f(g(x)) = f(b), if f is continuous at b, we get limit of composites
+    - ![imgs](./imgs/Xnip2023-09-20_11-00-12.jpg)
+
+
+
